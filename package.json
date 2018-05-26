@@ -1,0 +1,15 @@
+{
+  "name": "loggar",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": "github:DrJume/loggar",
+  "description": "A simple logger with timestamps, color coding and beautification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DrJume",
+  "license": "MIT"
+}
